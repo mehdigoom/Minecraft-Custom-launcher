@@ -54,7 +54,9 @@ function switchView(current, next, currentFadeTime = 500, nextFadeTime = 500, on
 function getCurrentView(){
     return currentView
 }
-
+function getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
 function showMainUI(data){
 
     if(!isDev){
@@ -67,7 +69,7 @@ function showMainUI(data){
     refreshServerStatus()
     setTimeout(() => {
         document.getElementById('frameBar').style.backgroundColor = 'rgba(0, 0, 0, 0.5)'
-        document.body.style.backgroundImage = `url('assets/images/backgrounds/${document.body.getAttribute('bkid')}.png')`
+        document.body.style.backgroundImage = `url('assets/images/backgrounds/${getRandomInt(11)}.png')`
         $('#main').show()
 
         const isLoggedIn = Object.keys(ConfigManager.getAuthAccounts()).length > 0
