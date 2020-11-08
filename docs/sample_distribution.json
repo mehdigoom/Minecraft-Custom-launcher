@@ -16,7 +16,7 @@
             "description": "Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
+            "address": "54.37.162.236:25594",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Production",
