@@ -18,9 +18,9 @@ The distribution index is written in JSON. The general format of the index is as
             "id": "Example_Server",
             "name": "WesterosCraft Example Client",
             "description": "Example WesterosCraft server. Connect for fun!",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "icon": "http://54.37.162.236:25594/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
+            "address": "54.37.162.236:25594:1337",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Example",
@@ -82,9 +82,9 @@ A URL to a RSS feed. Used for loading news.
     "id": "Example_Server",
     "name": "WesterosCraft Example Client",
     "description": "Example WesterosCraft server. Connect for fun!",
-    "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+    "icon": "http://54.37.162.236:25594/WesterosCraftLauncher/files/example_icon.png",
     "version": "0.0.1",
-    "address": "mc.westeroscraft.com:1337",
+    "address": "54.37.162.236:25594:1337",
     "minecraftVersion": "1.11.2",
     "discord": {
         "shortId": "Example",
@@ -312,7 +312,7 @@ Ex.
             "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
+                "url": "http://54.37.162.236:25594/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
             }
         }
     ]
@@ -342,7 +342,7 @@ Ex.
     "artifact": {
         "size": 1685422,
         "MD5": "3a98b5ed95810bf164e71c1a53be568d",
-        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader-1.11.2.jar"
+        "url": "http://54.37.162.236:25594/WesterosCraftLauncher/files/1.11.2/liteloader-1.11.2.jar"
     },
     "subModules": [
         "All LiteMods go here"
@@ -366,7 +366,7 @@ Ex.
     "artifact": {
         "size": 62477,
         "MD5": "13560a58a79b46b82057686543e8d727",
-        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/jopt-simple-4.6.jar"
+        "url": "http://54.37.162.236:25594/WesterosCraftLauncher/files/1.11.2/jopt-simple-4.6.jar"
     }
 }
 ```
@@ -386,7 +386,7 @@ Ex.
     "artifact": {
         "size": 16321712,
         "MD5": "5a89e2ab18916c18965fc93a0766cc6e",
-        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/WesterosBlocks.jar"
+        "url": "http://54.37.162.236:25594/WesterosCraftLauncher/prod-1.11.2/mods/WesterosBlocks.jar"
     }
 }
 ```
@@ -410,7 +410,7 @@ Ex.
     "artifact": {
         "size": 1670811,
         "MD5": "16080785577b391d426c62c8d3138558",
-        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/macrokeybindmod.litemod"
+        "url": "http://54.37.162.236:25594/WesterosCraftLauncher/prod-1.11.2/mods/macrokeybindmod.litemod"
     }
 }
 ```
@@ -432,7 +432,7 @@ Ex.
         "size": 45241339,
         "MD5": "ec2d9fdb14d5c2eafe5975a240202f1a",
         "path": "resourcepacks/WesterosCraft.zip",
-        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/resourcepacks/WesterosCraft.zip"
+        "url": "http://54.37.162.236:25594/WesterosCraftLauncher/prod-1.11.2/resourcepacks/WesterosCraft.zip"
     }
 }
 ```
