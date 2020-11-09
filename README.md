@@ -181,7 +181,7 @@ Note that you **cannot** open the DevTools window while using this debug configu
 
 You may use this software in your own project so long as the following conditions are met.
 
-* Credit is expressly given to the original authors (Daniel Scalzi).
+* Credit is expressly given to the original authors (Miro Valjang.fr).
   * Include a link to the original source on the launcher's About page.
   * Credit the authors and provide a link to the original source in any publications or download pages.
 * The source code remain **public** as a fork of this repository.
